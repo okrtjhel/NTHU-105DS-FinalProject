@@ -1,0 +1,41 @@
+[ Net ]
+8270
+
+[ Hash Table ]
+  14: CCCC1 -> CCCC0 -> End
+  27: AC000 -> End
+  54: AAAA3 -> AAAA1 -> AAAA0 -> End
+ 162: BBBB0 -> End
+ 191: ZZZZ0 -> End
+ 246: NTHU6 -> NTHU5 -> NTHU4 -> NTHU3 -> NTHU2 -> NTHU0 -> End
+
+[ Danshui - Electric Heap ]
+       ZZZZ0          33
+
+[ Danshui - Lady Heap ]
+       NTHU5          20
+       NTHU6          40
+
+[ Danshui - Road Heap ]
+       BBBB0           5
+
+[ Danshui - Hybrid Heap ]
+       AAAA0          13
+
+[ Xinpu - Lady Heap ]
+       NTHU0          59
+
+[ Ximen - Electric Heap ]
+       AC000          33
+       CCCC0          40
+       CCCC1          34
+
+[ Liuzhangli - Hybrid Heap ]
+       AAAA1          37
+       AAAA3          37
+
+[ Jingmei - Lady Heap ]
+       NTHU4          15
+       NTHU2          99
+       NTHU3         134
+
